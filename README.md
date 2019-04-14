@@ -1,5 +1,21 @@
 # Gridsome with Tailwind
 
+### To use Tailwind with Gridsome just clone this repository to your local folder and run:
+
+```
+https://github.com/squteronsquter/gridsome-with-tailwindcss.git
+cd gridsome-with-tailwindcss
+npm install
+```
+
+### Then just run development:
+
+```
+gridsome develop
+```
+
+### All has been prepared for you to run Gridsome with Tailwind in this repo. However if you would like to re-create the process on your own follow the steps below.
+
 ### 1. Install Gridsome CLI tool if you have not done so yet
 
 ```
