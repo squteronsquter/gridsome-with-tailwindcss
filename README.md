@@ -3,8 +3,12 @@
 ### To use Tailwind with Gridsome just clone this repository to your local folder and run:
 
 ```
+npm install --global @gridsome/cli
+
 https://github.com/squteronsquter/gridsome-with-tailwindcss.git
+
 cd gridsome-with-tailwindcss
+
 npm install
 ```
 
